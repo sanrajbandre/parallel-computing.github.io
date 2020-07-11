@@ -1,2 +1,5 @@
-# parallel-computing.github.io
-High Performance Parallel Computing
+# HIGH PERFORMANCE PARALLEL COMPUTING
+### Sanraj Bandre | parallel-computing.github.io
+```javascript
+The objective of githup page is to work collaboratively on parallel computing domain. 
+```
