@@ -1,7 +1,4 @@
-# HIGH PERFORMANCE PARALLEL COMPUTING
-### Sanraj Bandre | parallel-computing.github.io
+#### COLAB NOTEBOOK
 ```javascript
-The objective of githup page is to work collaboratively on parallel computing domain. 
+PyCuda Parallel Computing Libraries
 ```
-#### BASIC CMDLINE TEMPLATES
-> C/C++ Commandline Parsing  
